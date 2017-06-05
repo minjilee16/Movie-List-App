@@ -1,0 +1,28 @@
+.boxes {
+  padding: 30px;
+  margin: auto;
+  font-size: 20px;
+  border: 2px solid grey;
+   margin-left: 130px;
+  color: black;
+  width: 400px; 
+  height: 20px;
+}
+
+#searchBoxes {
+  /*align-content: center;*/
+  margin: 30px;
+  margin-left: 130px;
+  
+}
+
+#addMovieBoxGroupDiv {
+  margin-left: 130px;
+}
+
+
+h1 {
+  color: blue;
+  font: sans-serif;
+  margin-left: 130px;
+}
